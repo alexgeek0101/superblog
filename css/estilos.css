@@ -12,3 +12,10 @@ body{
 
 }
 
+#titulo{
+    background-color: cornflowerblue;
+}
+
+#titulo h1{
+    color: white;
+}
